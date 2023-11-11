@@ -1,5 +1,6 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agh-Hayk&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agh-Hayk&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=prs&theme=radical)
+
 <!--
 **Agh-Hayk/agh-hayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
